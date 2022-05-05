@@ -1,4 +1,4 @@
-# virtual_memory_manager
+# virtual-memory-manager
 
 ## Project 3 Report
 
